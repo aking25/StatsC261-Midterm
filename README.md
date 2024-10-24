@@ -1,1 +1,1 @@
-# StatsC261-Midterm
+# StatsC261-Ensemble-Powered Predictive Analytics
